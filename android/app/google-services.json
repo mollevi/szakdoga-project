@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "633113459024",
+    "project_id": "wud0zl-szakdoli",
+    "storage_bucket": "wud0zl-szakdoli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633113459024:android:88e3c3e0f0876d375a1455",
+        "android_client_info": {
+          "package_name": "eu.trazgixin.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633113459024-st8pm5oih23c12sc377rj42ji3v76r0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCALmqBoBCWrrVQSajo71c5sP4b9o0I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633113459024-st8pm5oih23c12sc377rj42ji3v76r0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
